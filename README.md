@@ -1,0 +1,1 @@
+In this project I am going to create a website with recipes on it. I will need to use HTML skills, like setting up the HTML boilerplates, creating links, inserting images, and creating ordered and unordered lists.
